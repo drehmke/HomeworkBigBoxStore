@@ -1,0 +1,6 @@
+C:\programming\FullStackDotNet\WeekThree\HomeworkBigBoxStore\HomeworkBigBoxStore\bin\Debug\HomeworkBigBoxStore.exe.config
+C:\programming\FullStackDotNet\WeekThree\HomeworkBigBoxStore\HomeworkBigBoxStore\obj\Debug\HomeworkBigBoxStore.csprojResolveAssemblyReference.cache
+C:\programming\FullStackDotNet\WeekThree\HomeworkBigBoxStore\HomeworkBigBoxStore\bin\Debug\HomeworkBigBoxStore.exe
+C:\programming\FullStackDotNet\WeekThree\HomeworkBigBoxStore\HomeworkBigBoxStore\bin\Debug\HomeworkBigBoxStore.pdb
+C:\programming\FullStackDotNet\WeekThree\HomeworkBigBoxStore\HomeworkBigBoxStore\obj\Debug\HomeworkBigBoxStore.exe
+C:\programming\FullStackDotNet\WeekThree\HomeworkBigBoxStore\HomeworkBigBoxStore\obj\Debug\HomeworkBigBoxStore.pdb
